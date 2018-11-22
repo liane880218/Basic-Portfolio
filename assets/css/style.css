@@ -64,7 +64,6 @@ section{
     margin-left: 20%;
     margin-right: 20%;
     height: 450px;
-    background-color: #ffffff;
     border-style: solid;
     margin-bottom: 4%;
     margin-top: 2%;
@@ -104,4 +103,27 @@ img{
     text-decoration: none;
     display: inline-block;
     font-size: 14px;
+}
+
+.t td{
+    width: 180px;
+    height: 120px;
+}
+
+.portfolio{
+    height: 550px;
+}
+
+.info{
+    background-color: #4aaaa5;
+    float: left;
+    width: 160px;
+    color: #ffffff;
+    position: relative;
+    bottom: 25px;
+}
+
+.t img{
+    width: 160px;
+    height: 100px;
 }
